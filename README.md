@@ -1,2 +1,2 @@
 # blue_ocean
-Blue Ocean Demo
+Nic's Blue Ocean Demo Page
